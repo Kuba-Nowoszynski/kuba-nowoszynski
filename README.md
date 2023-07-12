@@ -14,8 +14,6 @@ I dedicate myself to constant development through learning new skills!
 * 🤝  I'm open to collaborating on Web Apps
 * ⚡  Long-distance Trail Runner
 
-<a href="https://www.github.com/Kuba-Nowoszynski" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Kuba-Nowoszynski?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
