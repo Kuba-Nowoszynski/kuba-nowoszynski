@@ -10,9 +10,9 @@ I dedicate myself to constant development through learning new skills!
 * 🖥️  See my portfolio at [MyPortfolio](http://kuba-nowoszynski.onrender.com/)
 * ✉️  You can contact me at [jakubnowoszynski@gmail.com](mailto:jakubnowoszynski@gmail.com)
 * 🚀  I'm currently working on [Q8 Shop](https://q8-shop.netlify.app/)
-* 🧠  I'm learning [3D modelling](https://drive.google.com/drive/folders/1y5exTaDpt0RujpaveeX_7a6rRfHbFcIV?usp=sharing)
+* 🧠  I'm creating [3D models](https://drive.google.com/drive/folders/1y5exTaDpt0RujpaveeX_7a6rRfHbFcIV?usp=sharing) as a hobby
 * 🤝  I'm open to collaborating on Web Apps
-* ⚡  Long-distance Trail Runner
+* ⚡ Trail Runner
 
 
 ### Skills
