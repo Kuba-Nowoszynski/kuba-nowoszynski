@@ -7,7 +7,7 @@ Full Stack Developer
 I dedicate myself to constant development through learning new skills!
 
 * 🌍  I'm based in Gdańsk
-* 🖥️  See my portfolio at [MyPortfolio](http://kuba-nowoszynski.onrender.com/)
+* 🖥️  See my portfolio [here](http://kuba-nowoszynski.netlify.app/)
 * ✉️  You can contact me at [jakubnowoszynski@gmail.com](mailto:jakubnowoszynski@gmail.com)
 * 🚀  I'm currently working on [Q8 Shop](https://q8-shop.netlify.app/)
 * 🧠  I'm creating [3D models](https://drive.google.com/drive/folders/1y5exTaDpt0RujpaveeX_7a6rRfHbFcIV?usp=sharing) as a hobby
