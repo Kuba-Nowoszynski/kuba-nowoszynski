@@ -30,6 +30,7 @@ I'm dedicated to continuous learning and development, always seeking new skills 
 </p>
 I bring a diverse set of skills to the table:
 
+
 - JavaScript: Mastering the art of interactive web development.
 - React: Building dynamic and user-friendly interfaces.
 - Node.js & Express: Crafting powerful server-side applications.
