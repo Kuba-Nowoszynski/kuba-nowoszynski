@@ -50,6 +50,4 @@ Connect with me on social media to stay updated on my latest projects and insigh
 
 Explore my GitHub activity and contributions:
 
-<p align="left">
-  <a href="https://github.com/Kuba-Nowoszynski" align="left"><img src="https://github-readme-stats.vercel.app/api?username=Kuba-Nowoszynski&show_icons=true&theme=dark&hide_border=true&locale=en" alt="GitHub Stats" /></a>
-</p>
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
