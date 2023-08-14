@@ -15,12 +15,12 @@ I'm dedicated to continuous learning and development, always seeking new skills 
 ### Skills
 I bring a diverse set of skills to the table:
 
-- JavaScript: Mastering the art of interactive web development. ![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)
-- React: Building dynamic and user-friendly interfaces. ![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)
-- Node.js & Express: Crafting powerful server-side applications. ![Node.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg) ![Express](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg)
-- MongoDB & Firebase: Creating secure and efficient data solutions. ![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg) ![Firebase](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg)
-- Sass & Bootstrap: Enhancing aesthetics and responsiveness. ![Sass](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg) ![Bootstrap](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg)
-- 3D Modeling with Blender: Unleashing creativity in the digital realm. ![Blender](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg)
+- JavaScript: Mastering the art of interactive web development. <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="18" height="18" alt="JavaScript" />
+- React: Building dynamic and user-friendly interfaces. <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="18" height="18" alt="React" />
+- Node.js & Express: Crafting powerful server-side applications. <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="18" height="18" alt="Node.js" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="18" height="18" alt="Express" />
+- MongoDB & Firebase: Creating secure and efficient data solutions. <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="18" height="18" alt="MongoDB" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="18" height="18" alt="Firebase" />
+- Sass & Bootstrap: Enhancing aesthetics and responsiveness. <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="18" height="18" alt="Sass" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="18" height="18" alt="Bootstrap" />
+- 3D Modeling with Blender: Unleashing creativity in the digital realm. <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="18" height="18" alt="Blender" />
 
 ### Socials
 
