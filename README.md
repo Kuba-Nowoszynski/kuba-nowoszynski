@@ -46,8 +46,5 @@ Connect with me on social media to stay updated on my latest projects and insigh
   <a href="https://www.stackoverflow.com/users/19145692/kuba-nowoszyński" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
-### Stats
-
-Explore my GitHub activity and contributions:
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
