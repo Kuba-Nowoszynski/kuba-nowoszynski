@@ -28,14 +28,6 @@ I'm dedicated to continuous learning and development, always seeking new skills 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 </p>
-I bring a diverse set of skills to the table:
-<br/>
-- JavaScript: Mastering the art of interactive web development.
-- React: Building dynamic and user-friendly interfaces.
-- Node.js & Express: Crafting powerful server-side applications.
-- MongoDB & Firebase: Creating secure and efficient data solutions.
-- Sass & Bootstrap: Enhancing aesthetics and responsiveness.
-- 3D Modeling with Blender: Unleashing creativity in the digital realm.
 
 ### Socials
 
