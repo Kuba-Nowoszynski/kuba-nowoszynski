@@ -36,9 +36,6 @@ I bring a diverse set of skills to the table:
 - MongoDB & Firebase: Creating secure and efficient data solutions.
 - Sass & Bootstrap: Enhancing aesthetics and responsiveness.
 - 3D Modeling with Blender: Unleashing creativity in the digital realm.
-### Socials
-
-Connect with me on social media to stay updated on my latest projects and insights:
 
 <p align="left">
   <a href="https://www.facebook.com/jakub.nowoszynski/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
