@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm dedicated to continuous learning and development, always seeking new skills to enhance my expertise!
 --------------------
 
-* 🖥️  Check out my portfolio [here](http://kuba-nowoszynski.com/)
-* ✉️  You can reach me at [jakubnowoszynski@gmail.com](mailto:jakubnowoszynski@gmail.com)
-* 🚀  Currently, I'm working on [VitQnt](https://vitqnt.netlify.app/) and learning TypeScript
-* 🧠  As a hobby, I create [3D models](https://drive.google.com/drive/folders/1NrSaZ9umCIe0SV6JX-Rra4UqGOzmfSGg?usp=sharing) as a hobby
-* 🤝  I'm enthusiastic about collaborating on innovative Web Apps.
-* ⚡ Trail Runner
+* 🖥️ Check out my portfolio [here](http://kuba-nowoszynski.com/).
+* ✉️ You can reach me at [jakubnowoszynski@gmail.com](mailto:jakubnowoszynski@gmail.com)
+* 🚀 Currently, I'm working on [VitQnt](https://vitqnt.netlify.app/) and learning TypeScript.
+* 🧠 I create [3D models](https://drive.google.com/drive/folders/1NrSaZ9umCIe0SV6JX-Rra4UqGOzmfSGg?usp=sharing) as a hobby.
+* 🤝 I'm enthusiastic about collaborating on innovative Web Apps.
+* ⚡ I'm a Trail Runner.
 
 
 ### Skills 
